@@ -1,4 +1,6 @@
 import React from 'react';
+import logo from './logo.png';
+
 export const Content110DataSource = {
   OverPack: {
     className: 'home-page-wrapper content11-wrapper kwl0sqkn7i8-editor_css',
@@ -12,8 +14,7 @@ export const Content110DataSource = {
     children: [
       {
         name: 'image',
-        children:
-          'https://gw.alipayobjects.com/zos/rmsportal/PiqyziYmvbgAudYfhuBr.svg',
+        children: (<img width="100px" alt="MagicSign" src={logo} />),
         className: 'title-image',
       },
       {
