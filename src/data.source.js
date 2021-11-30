@@ -54,10 +54,10 @@ export const Content110DataSource = {
     children: {
       a: {
         className: 'button kwl0u7tpeqb-editor_css',
-        href: '#',
+        href: 'https://discord.gg/d9k8QuyKcz',
         children: (
           <span>
-            <p>Connect Wallet</p>
+            <p>Join Discord</p>
           </span>
         ),
       },
